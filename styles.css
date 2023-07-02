@@ -18,3 +18,45 @@
     gap: 1rem;
 }
 
+/* hero section */
+.hero {
+
+    display: flex;
+    background-color: #1f2937;
+
+    justify-content: space-around;
+
+}
+
+
+.main-text .hero-header {
+
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    
+}
+
+.main-text .hero-paragraph {
+
+    font-size: 18px;
+    color: #E5E7EB;
+
+}
+
+.main-text button {
+
+    font-size: 18px;
+    color: #E5E7EB;    
+    background-color: #3882f6;
+
+}
+
+.main-img {
+
+    height: 250px;
+    width: 250px;
+    overflow: hidden;
+
+
+}
